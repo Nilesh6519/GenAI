@@ -13,5 +13,9 @@ pip list
 '''
 
 '''
-pip install pykernel
+pip install ipykernel
 '''
+
+```
+git init
+```
